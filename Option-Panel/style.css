@@ -1,0 +1,16 @@
+#game{
+    font-size: 1.5em;
+    background-color:#808080;
+    margin-left: 20px;
+}
+#btn{
+    height: 40px;
+    text-align: center;
+    margin-left: 20px;
+    width: 160px;
+}
+
+#btn h2{
+    margin: 0;
+   
+}
