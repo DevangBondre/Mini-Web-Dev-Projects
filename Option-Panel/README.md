@@ -1,5 +1,5 @@
 Here i tried to make a options panel which can be used for many different things like google forms and stuffs . Its not made very fancy and stuff because i just wanted to see how can we actually create the option menu. 
-
+<br>
 
 ![1](https://github.com/DevangBondre/Mini-Web-Dev-Projects/assets/140183297/3da0ccf3-20ed-4402-82d8-a3f0387468d2)
 
